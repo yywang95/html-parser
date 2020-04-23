@@ -1,0 +1,17 @@
+{
+  "name": "html-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.9.0",
+    "typescript": "^3.8.3"
+  }
+}
